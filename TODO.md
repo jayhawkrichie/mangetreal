@@ -1,0 +1,2 @@
+- Can H1 font be set to reduce size when window size is reduced?
+- Change font on Header h1 and h2
